@@ -499,6 +499,10 @@ It reflects practical knowledge in customer communication, help desk operations,
 
 # 📄 License
 
-This project is licensed under the MIT License.
+Copyright © 2026 Youssef S. Elhussainy
 
-Feel free to use this repository for learning, inspiration, and educational purposes.
+All Rights Reserved.
+
+This repository is provided for portfolio and educational viewing purposes only.
+
+No part of this repository may be copied, reproduced, modified, distributed, published, or used without prior written permission from the author.
