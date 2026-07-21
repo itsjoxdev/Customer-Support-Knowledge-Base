@@ -1,3 +1,4 @@
+
 # Customer Support Knowledge Base 💬
 
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
@@ -14,16 +15,19 @@ This repository demonstrates practical customer support skills, professional com
 
 # 📖 Table of Contents
 
-- About
-- Repository Structure
-- Topics Covered
-- Customer Support Workflow
-- Communication Channels
-- Skills Demonstrated
-- Tools Used
-- Author
+- [📌 About](#about)
+- [📂 Repository Structure](#repository-structure)
+- [📚 Topics Covered](#topics-covered)
+- [🔄 Customer Support Workflow](#customer-support-workflow)
+- [💬 Communication Channels](#communication-channels)
+- [🛠️ Tools Used](#tools-used)
+- [💡 Skills Demonstrated](#skills-demonstrated)
+- [👨‍💻 Author](#author)
+- [⭐ Purpose](#purpose)
 
 ---
+
+<a id="about"></a>
 
 # 📌 About
 
@@ -42,6 +46,8 @@ Each guide includes:
 - Resolution Steps
 
 ---
+
+<a id="repository-structure"></a>
 
 # 📂 Repository Structure
 
@@ -73,6 +79,7 @@ Customer-Support-Knowledge-Base/
 ├── CHANGELOG.md
 ├── LICENSE
 └── README.md
+
 ```
 
 ---
@@ -81,65 +88,65 @@ Customer-Support-Knowledge-Base/
 
 ## 📞 Customer Service
 
-- Customer Service Basics
-- Greeting Customers
-- Handling Angry Customers
-- Refund Requests
-- Order Delay Handling
+* Customer Service Basics
+* Greeting Customers
+* Handling Angry Customers
+* Refund Requests
+* Order Delay Handling
 
 ---
 
 ## 📧 Email Communication
 
-- Welcome Email
-- Refund Confirmation
-- Refund Approval
-- Delay Notification
-- Complaint Response
-- Follow-up Email
-- Thank You Email
+* Welcome Email
+* Refund Confirmation
+* Refund Approval
+* Delay Notification
+* Complaint Response
+* Follow-up Email
+* Thank You Email
 
 ---
 
 ## 💬 Live Chat Support
 
-- Greeting Messages
-- Waiting Messages
-- Transfer Messages
-- Escalation Messages
-- Closing Messages
+* Greeting Messages
+* Waiting Messages
+* Transfer Messages
+* Escalation Messages
+* Closing Messages
 
 ---
 
 ## ☎️ Phone Support
 
-- Opening Scripts
-- Customer Verification
-- Hold Scripts
-- Resolution Scripts
-- Escalation Scripts
-- Closing Scripts
+* Opening Scripts
+* Customer Verification
+* Hold Scripts
+* Resolution Scripts
+* Escalation Scripts
+* Closing Scripts
 
 ---
 
 ## 📈 Escalation Process
 
-- Level 1 Support
-- Level 2 Support
-- Supervisor Escalation
-- Manager Escalation
-- Documentation Standards
+* Level 1 Support
+* Level 2 Support
+* Supervisor Escalation
+* Manager Escalation
+* Documentation Standards
 
 ---
 
 ## 📝 Customer Support Scenarios
 
-- Wrong Product
-- Damaged Product
-- Late Delivery
-- Missing Order
-- Billing Issue
-- Account Problems
+* Wrong Product
+* Damaged Product
+* Late Delivery
+* Missing Order
+* Billing Issue
+* Account Problems
 
 ---
 
@@ -162,40 +169,40 @@ Every customer interaction follows a structured workflow:
 
 This repository includes professional communication examples for:
 
-- Phone Support
-- Live Chat
-- Email Support
+* Phone Support
+* Live Chat
+* Email Support
 
 ---
 
 # 🛠️ Tools Used
 
-- GitHub
-- Markdown
-- Customer Service Documentation
-- Technical Documentation
-- Communication Standards
-- Knowledge Base Development
+* GitHub
+* Markdown
+* Customer Service Documentation
+* Technical Documentation
+* Communication Standards
+* Knowledge Base Development
 
 ---
 
 # 💡 Skills Demonstrated
 
-- Customer Support
-- Customer Service
-- Technical Support
-- Help Desk Fundamentals
-- Communication Skills
-- Active Listening
-- Conflict Resolution
-- Problem Solving
-- Escalation Management
-- Professional Documentation
-- Email Communication
-- Live Chat Support
-- Phone Support
-- Knowledge Base Development
-- Git & GitHub
+* Customer Support
+* Customer Service
+* Technical Support
+* Help Desk Fundamentals
+* Communication Skills
+* Active Listening
+* Conflict Resolution
+* Problem Solving
+* Escalation Management
+* Professional Documentation
+* Email Communication
+* Live Chat Support
+* Phone Support
+* Knowledge Base Development
+* Git & GitHub
 
 ---
 
@@ -212,3 +219,7 @@ GitHub: **@itsjoxdev**
 # ⭐ Purpose
 
 This repository is part of my professional portfolio and demonstrates my ability to create structured customer support documentation, communicate professionally across multiple channels, and apply industry-standard customer service workflows used in Help Desk, Technical Support, Customer Support, and Call Center environments.
+
+```
+
+```
